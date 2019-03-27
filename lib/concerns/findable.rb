@@ -7,5 +7,5 @@ module InstanceMethods
   
   
 
-  
+end
 end
